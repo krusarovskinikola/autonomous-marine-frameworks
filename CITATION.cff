@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these architectures, frameworks, or defensive disclosures in your work, please cite them as follows."
+authors:
+  - family-names: "Krušarovski"
+    given-names: "Nikola"
+    email: "krušarovski.nikola@gmail.com"
+title: "Autonomous Marine Frameworks: Closed-Loop Acoustic Calibration and Adaptive Sampling Architectures"
+date-released: 2026-07-04
+version: 1.0.0
+url: "https://github.com"
+keywords:
+  - hydrographic surveying
+  - sound velocity profiling
+  - closed-loop calibration
+  - adaptive sampling
+  - spatial confidence
+  - marine robotics
