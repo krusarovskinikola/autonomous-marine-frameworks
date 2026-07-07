@@ -1,4 +1,7 @@
 # Autonomous Marine Frameworks
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21234135.svg)](https://doi.org/10.5281/zenodo.21234135)
+
 A collection of open architectures, technical whitepapers, and defensive disclosures for closed-loop calibration, adaptive sampling, and automated spatial-temporal uncertainty management in marine, aquatic, and hydrographic survey platforms.
 
 ---
