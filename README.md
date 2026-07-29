@@ -13,10 +13,10 @@ This repository serves as a permanent, timestamped public defensive disclosure i
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure & Disclosures
 *   📁 **`core-architectures/01-integrated-svp/`**: Contains the foundational framework documents:
-    *   `Krusarovski_SVP_ArchitecturalFramework_v1_0_2026.pdf`
-    *   `Krusarovski_SVP_IntegratedProbe_v1_0_2026.pdf`
+    *   📄 [SVP Architectural Framework v1.0 (PDF)](core-architectures/01-integrated-svp/Krusarovski_SVP_ArchitecturalFramework_v1_0_2026.pdf)
+    *   📄 [SVP Integrated Probe v1.0 (PDF)](core-architectures/01-integrated-svp/Krusarovski_SVP_IntegratedProbe_v1_0_2026.pdf)
 
 ---
 
@@ -28,8 +28,8 @@ The following frameworks are actively being developed and will be disclosed dire
 ---
 
 ## 📜 Licensing
-*   **Documentation & Papers**: All whitepapers, frameworks, and text assets are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org).
-*   **Source Code & Hardware Designs**: Any software scripts, firmware, or hardware schematics introduced to this repository are licensed under the [MIT License](https://opensource.org).
+*   **Documentation & Papers**: All whitepapers, frameworks, and text assets are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+*   **Source Code & Hardware Designs**: Any software scripts, firmware, or hardware schematics introduced to this repository are licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
