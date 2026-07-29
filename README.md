@@ -14,9 +14,9 @@ This repository serves as a permanent, timestamped public defensive disclosure i
 ---
 
 ## 📁 Repository Structure & Disclosures
-*   📁 **`core-architectures/01-integrated-svp/`**: Contains the foundational framework documents:
-    *   📄 [SVP Architectural Framework v1.0 (PDF)](core-architectures/01-integrated-svp/Krusarovski_SVP_ArchitecturalFramework_v1_0_2026.pdf)
-    *   📄 [SVP Integrated Probe v1.0 (PDF)](core-architectures/01-integrated-svp/Krusarovski_SVP_IntegratedProbe_v1_0_2026.pdf)
+*   📁 **`core-architectures/`**: Contains the foundational framework documents:
+    *   📄 [SVP Architectural Framework v1.0 (PDF)](core-architectures/Krusarovski_SVP_ArchitecturalFramework_v1_0_2026.pdf)
+    *   📄 [SVP Integrated Probe v1.0 (PDF)](core-architectures/Krusarovski_SVP_IntegratedProbe_v1_0_2026.pdf)
 
 ---
 
